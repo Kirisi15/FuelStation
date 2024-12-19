@@ -1,4 +1,4 @@
 package Fuel.Station.Fuel.Station.Repository;
 
-public class customerRepository {
+public interface customerRepository {
 }
