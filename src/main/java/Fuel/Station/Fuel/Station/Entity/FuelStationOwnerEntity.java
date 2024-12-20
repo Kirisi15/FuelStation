@@ -1,4 +1,4 @@
 package Fuel.Station.Fuel.Station.Entity;
 
-public class customerEntity {
+public class FuelStationOwnerEntity {
 }
