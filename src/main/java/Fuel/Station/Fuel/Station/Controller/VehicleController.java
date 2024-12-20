@@ -1,4 +1,4 @@
 package Fuel.Station.Fuel.Station.Controller;
 
-public class vehicleController {
+public class VehicleController {
 }

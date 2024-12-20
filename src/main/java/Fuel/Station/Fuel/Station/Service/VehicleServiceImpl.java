@@ -1,4 +1,4 @@
 package Fuel.Station.Fuel.Station.Service;
 
-public interface fuelStationOwnerInterface {
+public class VehicleServiceImpl {
 }
