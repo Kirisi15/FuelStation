@@ -27,6 +27,16 @@ public class EmployeeEntity {
 
     }
 
+    public EmployeeEntity(String empId, Long NIC, String jobrole, Long contactnumber, String stationlicense, String username, String password) {
+        EmpId = empId;
+        this.NIC = NIC;
+        Jobrole = jobrole;
+        Contactnumber = contactnumber;
+        Stationlicense = stationlicense;
+        Username = username;
+        Password = password;
+    }
+
     public String getEmpId() {
         return EmpId;
     }
@@ -96,3 +106,4 @@ public class EmployeeEntity {
                 '}';
     }
 }
+

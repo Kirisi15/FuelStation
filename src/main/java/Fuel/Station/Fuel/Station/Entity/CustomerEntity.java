@@ -1,4 +1,8 @@
 package Fuel.Station.Fuel.Station.Entity;
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "Customer")
 
 public class CustomerEntity {
     private int customerId;
